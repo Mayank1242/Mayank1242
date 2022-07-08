@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1024/1*f37j-b8G8Bx-AnNklKa3kA.png)
+![MasterHead]([https://miro.medium.com/max/1024/1*f37j-b8G8Bx-AnNklKa3kA.png](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif))
 
 <h1 align="center">Hi 👋, I'm Mayank Mishra</h1>
 
