@@ -1,4 +1,5 @@
-[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://rishavchanda.io)
+[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 <h1 align="center">Hi 👋, I'm Mayank Mishra</h1>
 
