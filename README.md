@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif))
 
 <h1 align="center">Hi 👋, I'm Mayank Mishra</h1>
 <h3 align="center">Programmer</h3>
