@@ -1,3 +1,20 @@
+<p align="center"><img src="animation.gif" width="35%"></p>
+ 
+<div style=" font-size: medium; color: #447ff7" align=center> 
+                            
+          
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Mayank%20Mishra&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5)
+      
+         
+  <!-- 
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=+JUST+CP+THESE+DAYS+.....!!" alt="Rajat Joshi" width="650" height="55">  -->
+  
+  
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<p>
+  
 ### Hi there 👋, I am Mayank Mishra
 ![]( https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif )
 
