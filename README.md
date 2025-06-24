@@ -18,8 +18,7 @@
 ### Hi there 👋, I am Mayank Mishra
 ![]( https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif )
 
-Hi, I am Mayank Mishra a computer science student at Graphic Era Hill University Dehradun.
-
+Hi, I am Mayank Mishra .
 - 💬 Ask me about :Java  
 - 📫 How to reach me: mayankmishra1242@gamil.com 
 
