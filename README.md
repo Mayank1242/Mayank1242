@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="animation.gif" width="35%" alt="Intro Animation">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="35%" alt="Intro Animation">
 </p>
 
 <p align="center">
