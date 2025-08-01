@@ -1,7 +1,12 @@
 <!-- 🟣 HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Mayank%20Mishra&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=ffffff&fontSize=45&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Mayank%20Mishra&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=ffffff&fontSize=45&descAlignY=60&descAlign=60" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+</p>
+
 
 <!-- 🟣 TYPING INTRO -->
 <p align="center">
@@ -108,6 +113,3 @@
   <b>⚡ Thank you for visiting! Keep building, keep learning. ⚡</b>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
-</p>
