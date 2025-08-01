@@ -2,16 +2,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Mayank%20Mishra&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=ffffff&fontSize=45&descAlignY=60&descAlign=60" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👨‍💻+Cloud+%26+DevOps+Trainer+%7C+Full+Stack+Developer;☁️+AWS+%26+Azure+Certified+Engineer;⚙️+Kubernetes+%7C+Docker+%7C+Jenkins+%7C+CI%2FCD;👨‍🏫+4%2B+Years+Experience+in+Tech+Training;💡+Passionate+about+Upskilling+India+%26+Beyond!" />
-</p>
 
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 </p>
 
 
 <!-- 🟣 TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=👨‍💻+Cloud+%26+DevOps+Trainer+%7C+Full+Stack+Developer;☁️+AWS+%26+Azure+Certified+Engineer;⚙️+Kubernetes+%7C+Docker+%7C+Jenkins+%7C+CI%2FCD;👨‍🏫+4%2B+Years+Experience+in+Tech+Training;💡+Passionate+about+Upskilling+India+%26+Beyond!" />
+</p>
 
 ---
 
