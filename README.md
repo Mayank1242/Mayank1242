@@ -1,42 +1,77 @@
-<p align="center"><img src="animation.gif" width="35%"></p>
- 
-<div style=" font-size: medium; color: #447ff7" align=center> 
-                            
-          
- ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Mayank%20Mishra&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=90&fontAlignY=38&descAlignY=53&descAlign=70.5)
-      
-         
-  <!-- 
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=+JUST+CP+THESE+DAYS+.....!!" alt="Rajat Joshi" width="650" height="55">  -->
-  
-  
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<p>
-  
-### Hi there 👋, I am Mayank Mishra
-![]( https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif )
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Mayank%20Mishra&desc=Technical%20Trainer%20%7C%20Cloud%20%26%20DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=40&descSize=20&descAlignY=60&descAlign=50" />
+</p>
 
-Hi, I am Mayank Mishra .
-- 💬 Ask me about :Java  
-- 📫 How to reach me: mayankmishra1242@gamil.com 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Mayank+Mishra+%F0%9F%91%8B;Cloud+%26+DevOps+Trainer+%7C+MERN+Stack+Developer;AWS+%26+Azure+Certified+Engineer;Kubernetes+%7C+Docker+%7C+Jenkins+%7C+CI%2FCD;Passionate+about+Tech+%26+Training+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MAYANK1242)  
+## 🧑‍💻 About Me
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+🎓 I am a **committed and passionate Technical Trainer and Full Stack Developer** with over **4+ years** of experience in **technical education** and **enterprise software development**.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MAYANK1242)](https://github.com/ryo-ma/github-profile-trophy) <img align="right" alt="Coding" width="280" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+🚀 I have delivered impactful training sessions to:
+- 🇺🇸 **Corporate professionals** in the U.S.
+- 🇮🇳 **Engineering students and Government employees** across India.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANK1242)](https://github.com/anuraghazra/github-readme-stats)
+💡 My expertise includes:
+- **Languages & Frameworks**: Java, JavaScript, MERN Stack
+- **Cloud Platforms**: AWS (Certified), Microsoft Azure (Certified)
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, GitHub Actions
+- **Infrastructure**: CI/CD Pipelines, Linux, Bash, Shell Scripting
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAYANK1242&show_icons=true&count_private=true)  
+🛠️ I design **hands-on, real-world training modules** to bridge the gap between academic theory and industry demands.
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MAYANK1242)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/MAYANK1242)  
+## 🚀 Tech Stack & Tools
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MAYANK1242)  
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,linux,nodejs,react,mongodb,express,html,css,js,git,bash,vscode" />
 
-![Profile views](https://gpvc.arturio.dev/MAYANK1242)  
+---
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAYANK1242&show_icons=true&theme=tokyonight&count_private=true" height="150" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANK1242&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAYANK1242&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MAYANK1242&theme=gruvbox&margin-w=10&row=2&column=3" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+📧 Email: [mayankmishra1242@gmail.com](mailto:mayankmishra1242@gmail.com)  
+🌐 Portfolio: [newbieget.tech](https://newbieget.tech)  
+💼 LinkedIn: [linkedin.com/in/mayank1242](https://linkedin.com/in/mayank1242)  
+📁 GitHub: [github.com/MAYANK1242](https://github.com/MAYANK1242)
+
+---
+
+## 🔥 Contributions Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MAYANK1242&theme=react-dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<p align="center"><b>Thanks for visiting! Keep learning and building 🚀</b></p>
